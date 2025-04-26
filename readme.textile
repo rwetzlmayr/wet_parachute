@@ -1,15 +1,5 @@
-h3. A parachute for the unheeding author
+h1. 301 Moved Permanently
 
-*wet_parachute* requests the author's confirmation before it allows the closing of browser windows containing unsaved or modified entries.
+The repository has been moved to https://codeberg.org/rwetzlmayr/wet_parachute.
 
-h4. Usage:
-
-# Textpattern 4.5.3 is required, wet_parachute will _not_ work with any prior version.
-# Will not work with Opera due to their lack of support for the onbeforeunload event.
-# Install, enable, enjoy - no configuration required.
-
-Visit the "plugin help page":http://awasteofwords.com/help/wet_parachute for more detailled instructions.
-
-h4. Licence and Disclaimer
-
-This plug-in is released under the "Gnu General Public Licence":http://www.gnu.org/licenses/gpl.txt.
+This page is left as a placeholder to guide users to the new location.
